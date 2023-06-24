@@ -36,10 +36,10 @@ window.onscroll = () => {
     navbar.classList.remove('active')
 
 };
-// var typed = new Typed(".multiple-text", {
-//     strings: ["Frontend Developer", "Java Developer", "Hacker"],
-//     typeSpeed: 100,
-//     backSpeed: 100,
-//     backDelay: 1000,
-//     loop: true
-// })
+var typed = new Typed(".multiple-text", {
+    strings: ["Frontend Developer", "Java Developer", "Hacker"],
+    typeSpeed: 100,
+    backSpeed: 100,
+    backDelay: 1000,
+    loop: true
+})
