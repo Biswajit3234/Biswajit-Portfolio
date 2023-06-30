@@ -45,7 +45,7 @@ section{
 
 .logo{
     font-size: 2.5rem;
-    color: #b74ef9;
+    color: #8e6bff;
     font-weight: 600;
     cursor: default;
 }
@@ -59,8 +59,8 @@ section{
 
 .navbar a:hover,
 .navbar a.active{
-    color: #b74ef9;
-    text-shadow: 0 0 20px #b74ef9;
+    color: #8e6bff;
+    text-shadow: 0 0 20px #8e6bff;
 }
 
 #menu-icon{
@@ -109,7 +109,7 @@ section{
 }
 
 span{
-    color: #b74ef9;
+    color: #8e6bff;
 }
 .home-content h3:nth-of-type(2) {
     margin-bottom: 2rem;
@@ -126,27 +126,27 @@ span{
     width: 4rem;
     height: 4rem;
     background: transparent;
-    border: 2px solid #b74ef9;
+    border: 2px solid #8e6bff;
     border-radius: 50%;
     font-size: 2rem;
-    color: #b74ef9;
+    color: #8e6bff;
     text-decoration: none;
     margin: 3rem 1.5rem 3rem 0;
     transition: .5s ease;
 }
 
 .social-media a:hover{
-    background: #b74ef9;
+    background: #8e6bff;
     color: #1f242d;
-    box-shadow: 0 0 1rem #b74ef9;
+    box-shadow: 0 0 1rem #8e6bff;
 }
 
 .btn{
     display: inline-block;
     padding: 1rem 2.8rem;
-    background: #b74ef9;
+    background: #8e6bff;
     border-radius: 4rem;
-    box-shadow: 0 0 1rem #b74ef9;
+    box-shadow: 0 0 1rem #8e6bff;
     font-size: 1.6rem;
     color: #1f242d;
     letter-spacing: .1rem;
@@ -156,7 +156,7 @@ span{
 }
 
 .btn:hover{
-    box-shadow: 0 0 2rem #b74ef9;
+    box-shadow: 0 0 2rem #8e6bff;
 }
 
 
@@ -221,13 +221,13 @@ span{
 }
 
 .skills-container .skills-box:hover{
-    border-color: #b74ef9;
+    border-color: #8e6bff;
     transform: scale(1.02);
 }
 
 .skills-box i{
     font-size: 7rem;
-    color: #b74ef9;
+    color: #8e6bff;
 }
 
 .skills-box h3{
@@ -259,7 +259,7 @@ span{
 .portfolio-container .portfolio-box{
     position: relative;
     border-radius: 2rem;
-    box-shadow: 0 0 1rem #b74ef9;
+    box-shadow: 0 0 1rem #8e6bff;
     overflow: hidden;
     display: flex;
 }
@@ -279,7 +279,7 @@ span{
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(0, 0, 0, .1), #b74ef9);
+    background: linear-gradient(rgba(0, 0, 0, .1), #8e6bff);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -381,13 +381,13 @@ span{
     justify-content: center;
     align-items: center;
     padding: .8rem;
-    background: #b74ef9;
+    background: #8e6bff;
     border-radius: .8rem;
     transition: .5s ease;
 }
 
 .footer-iconTop a:hover{
-    box-shadow: 0 0 1rem #b74ef9;
+    box-shadow: 0 0 1rem #8e6bff;
 }
 
 .footer-iconTop a i{
